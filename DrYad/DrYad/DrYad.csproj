@@ -39,6 +39,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="DrYad.cs" />
+    <Compile Include="DrYadSettings.cs" />
+    <Compile Include="DrYadToken.cs" />
+    <Compile Include="DrYadWritter.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
