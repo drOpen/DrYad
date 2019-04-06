@@ -1,10 +1,11 @@
 # DrYad
 yet alternative human-readable data serialization language
 
-
 **- Types:**
   **- null**
     null value= *null*
+    
+    
   **- bool** - holds value that can be only *true* or *false*. The keywords *true* and *false* correspond to the two states.
     bool value= *false*
     bool array= *true, false*
